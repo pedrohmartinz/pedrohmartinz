@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohmartinz&show_icons=true&theme=radical)
-[![Readme Card](https://tcc-FRESH_START/?username=pedromartinz&repo=tcc-FRESH_START)]
+[![Readme Card](https://tcc-FRESH_START/api/pin/?username=pedromartinz&repo=tcc-FRESH_START)]
