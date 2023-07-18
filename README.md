@@ -8,4 +8,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmartinz&hide_progress=false&theme=radical)
 
 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohmartinz&repo=tcc-FRESH-START)](https://github.com/pedrohmartinz/tcc-FRESH_START)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohmartinz&repo=tcc-FRESH_START)](https://github.com/pedrohmartinz/tcc-FRESH_START)
