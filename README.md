@@ -1,10 +1,11 @@
 **Olá!!!** 👋👋
 
-👨 Eu sou o Pedro Henrique Martins
+Eu sou o Pedro Henrique Martins
  
-Linkedin:
-
-Instagram:
+### Encontre-me por aqui 🌎
+[![Linkedin_Badge](https://img.shields.io/badge/-PedroMartins-blue?style=flat-square&logo=Linkedin&logoColor=white)]
+7 fifGmail Badge](https://img.shields.io/badge/-lari.santosazevedo@gmail.com-c144387style flat-square&logo-Gmail&logoColor-white&link-mailto:lari.santosazevedo@gmail.com)1 (mailto:lari.sentosazevedo@gmail.com)
+8: https://www.instagram.com/code.Inci/?hl-at-or <br>
 
 
 About me
