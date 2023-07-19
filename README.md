@@ -1,6 +1,10 @@
-**Olá!!!** 
+**Olá!!!** 👋👋
+Eu sou o Pedro Henrique Martins
+ 
+Linkedin:
 
-👋👋
+Instagram:
+
 
 About me
  - 💼 Estudante da Etec Camargo Aranha
