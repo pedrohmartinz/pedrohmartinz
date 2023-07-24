@@ -4,7 +4,7 @@
 
 ### Encontre-me por aqui 🌎
 ![Linkedin_Badge](https://img.shields.io/badge/-PedroMartins-blue?style=flat-square&logo=Linkedin&logoColor=white)
-![Gmail_Badge](https://img.shields.io/badge/-pedrohmartinso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)(mailto:pedrohmartinso@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![Gmail_Badge](https://img.shields.io/badge/-pedrohmartinso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrohmartinso@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 📷 @phmartinz._
 
