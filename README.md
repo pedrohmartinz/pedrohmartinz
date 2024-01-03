@@ -1,6 +1,6 @@
 ### Olá! Sou Pedro 👋👋
 
-🏫 Estudante da Etec Camargo Aranha - Técnico em Desenvolvimento de Sistemas 🏡 Brasilero 🏙️ São Paulo ✈️ Brasil
+🏫 Estudante da Etec Camargo Aranha - Técnico em Desenvolvimento de Sistemas 🏡 Brasileiro 🏙️ São Paulo ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 [![Linkedin_Badge](https://img.shields.io/badge/-PedroMartins-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-martins-43283a217/)
